@@ -5,6 +5,11 @@
 #include <stdio.h>
 #include <tchar.h>
 
-#define DLL_EXPORT __declspec(dllexport)
+// Defining bool type
+typedef int bool;
+#define true 1
+#define false 0
 
+// Exporting functions
+#define DLL_EXPORT __declspec(dllexport)
 DLL_EXPORT int createExcerciseProcess();

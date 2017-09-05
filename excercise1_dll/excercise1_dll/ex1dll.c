@@ -10,7 +10,7 @@ int createEchoProcess(createHidden)
 	int createFlags = 0;
 	LPTSTR szCmdline = _tcsdup(TEXT("cmd /c echo hi>ex1_dll.txt"));
 
-	if (createHidden) {
+	if (createHidden == true) {
 		createFlags = CREATE_NO_WINDOW;
 	}
 
@@ -47,6 +47,6 @@ int createEchoProcess(createHidden)
 
 int createExcerciseProcess()
 {
-	int createProcessResultCode = createEchoProcess(FALSE);
+	int createProcessResultCode = createEchoProcess(false);
 	return createProcessResultCode;
 }

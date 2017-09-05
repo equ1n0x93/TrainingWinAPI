@@ -14,3 +14,6 @@
 
 
 // TODO: reference additional headers your program requires here
+typedef int bool;
+#define true 1
+#define false 0
