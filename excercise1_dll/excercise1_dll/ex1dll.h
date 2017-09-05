@@ -5,4 +5,6 @@
 #include <stdio.h>
 #include <tchar.h>
 
-__declspec(dllexport) int createExcerciseProcess();
+#define DLL_EXPORT __declspec(dllexport)
+
+DLL_EXPORT int createExcerciseProcess();

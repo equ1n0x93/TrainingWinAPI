@@ -1,8 +1,5 @@
 //ex1dll.c
 
-#include <windows.h>
-#include <stdio.h>
-#include <tchar.h>
 #include "ex1dll.h"
 
 
@@ -11,7 +8,7 @@ int createEchoProcess(createHidden)
 	STARTUPINFO si;
 	PROCESS_INFORMATION pi;
 	int createFlags = 0;
-	LPTSTR szCmdline = _tcsdup(TEXT("cmd /c echo \"hi\">ex1_dll.txt"));
+	LPTSTR szCmdline = _tcsdup(TEXT("cmd /c echo hi>ex1_dll.txt"));
 
 	if (createHidden) {
 		createFlags = CREATE_NO_WINDOW;
