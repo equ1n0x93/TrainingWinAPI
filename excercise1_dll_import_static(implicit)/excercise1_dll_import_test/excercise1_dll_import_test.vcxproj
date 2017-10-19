@@ -98,6 +98,7 @@
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalDependencies>C:\dev\TrainingWinAPI\excercise1_dll\Debug\ex1dll.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <DelayLoadDLLs>ex1dll.lib;%(DelayLoadDLLs)</DelayLoadDLLs>
     </Link>
     <ProjectReference>
       <UseLibraryDependencyInputs>true</UseLibraryDependencyInputs>

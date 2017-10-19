@@ -2,6 +2,7 @@
 // Need to copy ex1dll.dll to one of the paths in PATH system env variable
 // Add the dll path to Project Props -> VC++Directories(Source/Linker/Library)
 // Add the lib file to Project Props -> Linker -> Input -> Additional dependencies
+// ** Adding delay loading for dll: Project Props -> Linker -> Input -> Delay Loaded DLLs(add the dll name)
 
 #include "stdafx.h"
 
