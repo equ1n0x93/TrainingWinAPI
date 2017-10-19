@@ -1,4 +1,3 @@
-﻿  stdafx.c
-  excercise1dllimporttest.c
-  excercise1_dll_import_test.vcxproj -> C:\dev\TrainingWinAPI\excercise1_dll_import_test\excercise1_dll_import_test\Debug\excercise1_dll_import_test.exe
-  excercise1_dll_import_test.vcxproj -> C:\dev\TrainingWinAPI\excercise1_dll_import_test\excercise1_dll_import_test\Debug\excercise1_dll_import_test.pdb (Partial PDB)
+﻿  excercise1dllimporttest.c
+  excercise1_dll_import_test.vcxproj -> C:\dev\TrainingWinAPI\excercise1_dll_import_test\Debug\excercise1_dll_import_test.exe
+  excercise1_dll_import_test.vcxproj -> C:\dev\TrainingWinAPI\excercise1_dll_import_test\Debug\excercise1_dll_import_test.pdb (Partial PDB)

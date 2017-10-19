@@ -28,5 +28,7 @@ int main(int argc, char * argv[])
 	printf("Success: (%d)\n", procCreationResult);
 	Sleep(5000);
 
+	FreeLibrary(libHandle);
+
 	return 0;
 }
