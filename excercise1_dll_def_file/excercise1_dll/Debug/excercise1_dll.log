@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (excercise1_dll.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     Creating library C:\dev\TrainingWinAPI\excercise1_dll_def_file\Debug\ex1dll.lib and object C:\dev\TrainingWinAPI\excercise1_dll_def_file\Debug\ex1dll.exp
+ex1dll.exp : warning LNK4070: /OUT:TestDll.dll directive in .EXP differs from output filename 'C:\dev\TrainingWinAPI\excercise1_dll_def_file\Debug\ex1dll.dll'; ignoring directive
+  excercise1_dll.vcxproj -> C:\dev\TrainingWinAPI\excercise1_dll_def_file\Debug\ex1dll.dll
+  excercise1_dll.vcxproj -> C:\dev\TrainingWinAPI\excercise1_dll_def_file\Debug\ex1dll.pdb (Partial PDB)

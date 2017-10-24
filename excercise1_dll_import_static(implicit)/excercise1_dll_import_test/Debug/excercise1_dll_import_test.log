@@ -1,5 +1,4 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (excercise1_dll_import_test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   excercise1dllimporttest.c
-LINK : warning LNK4199: /DELAYLOAD:ex1dll.lib ignored; no imports found from ex1dll.lib
   excercise1_dll_import_test.vcxproj -> C:\dev\TrainingWinAPI\excercise1_dll_import_static(implicit)\Debug\excercise1_dll_import_static_test.exe
   excercise1_dll_import_test.vcxproj -> C:\dev\TrainingWinAPI\excercise1_dll_import_static(implicit)\Debug\excercise1_dll_import_static_test.pdb (Partial PDB)
