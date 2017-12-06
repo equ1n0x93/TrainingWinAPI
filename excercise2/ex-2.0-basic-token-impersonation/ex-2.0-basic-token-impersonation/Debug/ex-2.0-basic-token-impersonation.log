@@ -1,7 +1,0 @@
-﻿  ex20basictokenimpersonation.c
-c:\dev\trainingwinapi\excercise2\ex-2.0-basic-token-impersonation\ex-2.0-basic-token-impersonation\ex20basictokenimpersonation.c(66): warning C4133: 'function': incompatible types - from 'char [9]' to 'LPCWSTR'
-c:\dev\trainingwinapi\excercise2\ex-2.0-basic-token-impersonation\ex-2.0-basic-token-impersonation\ex20basictokenimpersonation.c(77): warning C4474: 'printf' : too many arguments passed for format string
-  c:\dev\trainingwinapi\excercise2\ex-2.0-basic-token-impersonation\ex-2.0-basic-token-impersonation\ex20basictokenimpersonation.c(77): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
-c:\dev\trainingwinapi\excercise2\ex-2.0-basic-token-impersonation\ex-2.0-basic-token-impersonation\ex20basictokenimpersonation.c(85): warning C4101: 'piCalcNewUser': unreferenced local variable
-  ex-2.0-basic-token-impersonation.vcxproj -> C:\dev\TrainingWinAPI\excercise2\ex-2.0-basic-token-impersonation\Debug\ex-2.0-basic-token-impersonation.exe
-  ex-2.0-basic-token-impersonation.vcxproj -> C:\dev\TrainingWinAPI\excercise2\ex-2.0-basic-token-impersonation\Debug\ex-2.0-basic-token-impersonation.pdb (Partial PDB)
