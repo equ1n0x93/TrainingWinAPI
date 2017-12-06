@@ -1,7 +1,7 @@
 # TrainingWinAPI
 WinAPI Training:
 
-Excercise 1:
+Exercise 1:
    - create an executable that creates another a cmd that writes “hi” to a file
    - do the same with a dll with an exported function
    - bonus round: create the process hidden
